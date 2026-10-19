@@ -1,0 +1,1244 @@
+{
+ "commit": "efa608d7ee5a495a4803b1d28cd0c955b4f1e033",
+ "files": [
+  {
+   "path": "3DPrintMeshes/5v_specific/5v_power_bank_holder.stl",
+   "size": 18084,
+   "git_blob_sha1": "8ef4eda7ed916ab094b7f5969d345b02c8645884",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "10bad10071cce8de3903ab79093983fb5fb25c43cee5d69d9459a922fdbe8fbf"
+  },
+  {
+   "path": "3DPrintMeshes/base_camera_mount.stl",
+   "size": 80884,
+   "git_blob_sha1": "8f52f7c5ce5185e14eae83a1513a84e0adf835eb",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "631ed680e524b90dcb59dd315830ed1bac842dfd5e77c412ef4c52ff4da2e854"
+  },
+  {
+   "path": "3DPrintMeshes/base_plate_layer1.stl",
+   "size": 472284,
+   "git_blob_sha1": "3b75735bba1cc4ddca5bc9a63184834328fcac26",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "93cc2a9af17a10dfd8b0023a6e25dc71d3553fa50d114aa6cb388e1f2ddad6a2"
+  },
+  {
+   "path": "3DPrintMeshes/base_plate_layer2.stl",
+   "size": 489884,
+   "git_blob_sha1": "bd27ec1c6a18a6a78d50039d893c10a5fcd0bb58",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "06b5e4306f697a6397f1f59bcf0f2e402c24e4c6d1dc1dc5e5ecad9721f11fcc"
+  },
+  {
+   "path": "3DPrintMeshes/battery_mount.stl",
+   "size": 13884,
+   "git_blob_sha1": "f8b37d14e3b35779bb08c09a875aafd0ce06b3df",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "58df6231a3961ac3f7c1e92ff178ff93c0a3bbb360d680b87ea6e65739460112"
+  },
+  {
+   "path": "3DPrintMeshes/battery_mount_eu.stl",
+   "size": 13884,
+   "git_blob_sha1": "3e36bc52ed827d308770e0734ff224daef7d28d1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "e0a846305321829974d5cccf2b786d4cf0298b879f3f1c25f3e07e6f182c2c13"
+  },
+  {
+   "path": "3DPrintMeshes/drive_motor_mount.stl",
+   "size": 46984,
+   "git_blob_sha1": "dd19998c23a792f356bf18edf56889fbb66b9db8",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "c8e7f9564ce4af7a6eef44bce1f71fc1a569b3446989210d5f15844664e93bd4"
+  },
+  {
+   "path": "3DPrintMeshes/drive_motor_mount_v2.stl",
+   "size": 425384,
+   "git_blob_sha1": "19152950b5bc52b7cdcc817c5e016f9724ae8edf",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "9ad701cf2c012c735edac7867db5e3b8f24142a89b58cb0f7729b1d9a2c9615b"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/Dynamixel_omni_wheel_mount v2.stl",
+   "size": 566484,
+   "git_blob_sha1": "4f1d4ad5a24adf33508d5c3cf50e85aa1343abcd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "989591bce0723063da58a52333a41262a82d3973a6df63b43683769e0c508b2d"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/center_triangular_insert.stl",
+   "size": 922584,
+   "git_blob_sha1": "f0b0570f34f4a97456a96a71c8a2887131dcc414",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "5f9bc4f360f85a1f5f39a4d095572bef6ffb486523a75f0549133bb68fdb5881"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/dynamixel_drive_motor_mount.stl",
+   "size": 298884,
+   "git_blob_sha1": "8b1f10b7bee59d3d9a302d197b30ea6cca7226cb",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "223239bddc9b3a763568c1af8e3e83e126a9fafe967c4cab87658d55271480ec"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/dynamixel_kiwi_servo_mount.stl",
+   "size": 298884,
+   "git_blob_sha1": "7d8492bc210f5959d80ad35cad634dbbe7363969",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "2505824c2842a1efe25575827d00148080b021b57bfcd0fa8d81e9ed6ae92be0"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/dynamixel_modified_base_arm.stl",
+   "size": 67084,
+   "git_blob_sha1": "374c75ff7deb7f4e135c777fd1c4851b869754d9",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "37fad56632d1cfddd20f1009deccdbb85ff6583ee32b6b4e05fbc90c69527c5e"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/follower_base.stl",
+   "size": 155884,
+   "git_blob_sha1": "677b2def3a0179f7f140532f2b68d70aef7c2005",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "5a8bb576572135a033606ff37fa260ba6996608a635043a29bdc472dd431cf45"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/lipo_battery_mount.stl",
+   "size": 13884,
+   "git_blob_sha1": "e049c5d77449a280f353e48ee8a80769608c141c",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "d36131cb53565871a2600531b01ca5ebefeff2060861a172666952503b556c4b"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/modified_static_side_with_mount.stl",
+   "size": 507684,
+   "git_blob_sha1": "0927f86dfdb8a0896b2c196c01713867fea690d6",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "46e1036de8ee78d31b33c430b6294f7a3c53eeaf86c8288fcce202166f7a5dd4"
+  },
+  {
+   "path": "3DPrintMeshes/dynamixel_specific/webcam_base_mount.stl",
+   "size": 201984,
+   "git_blob_sha1": "ebf3d019ace6ad9690432cecdfb9f8ea094b3e54",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "8ce8196ecd08f1cc8a08109fb7996aa35d4fef51b184c29c0f80e9ca94c68200"
+  },
+  {
+   "path": "3DPrintMeshes/jetson_holder.stl",
+   "size": 21484,
+   "git_blob_sha1": "ca5b2e08a6b98eb8a71d044c2e5361605b45f0e3",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "4541ab160a07aac9c360207d05de8378f3c5c05704c755a2d580c1b88ab60304"
+  },
+  {
+   "path": "3DPrintMeshes/modified_base_arm.stl",
+   "size": 2810027,
+   "git_blob_sha1": "9e53a34e17ad63952a1cab7b76d5e082701d4434",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "91cff0df8f8df6ee528e06b99d29ed8667683ebe196e1bdc303ec4bb04e24aff"
+  },
+  {
+   "path": "3DPrintMeshes/servo_controller_mount.stl",
+   "size": 85884,
+   "git_blob_sha1": "6308de4189252be0dfc5f04f5b2f8591148f8cc9",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "47fa5f3c5669a67208f2f59e752d05b4ba0a569641d05cb2f22031944baa7a4a"
+  },
+  {
+   "path": "3DPrintMeshes/webcam_mount/so100_gripper_cam_mount_insert.stl",
+   "size": 733084,
+   "git_blob_sha1": "e36eb412947046872d963023dfd9ce21506a0518",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "71d1843207160aeb5c81680367785d207b1d4e0e73456f6314212f39f82a2c56"
+  },
+  {
+   "path": "3DPrintMeshes/webcam_mount/webcam_mount.step",
+   "size": 80868,
+   "git_blob_sha1": "a374805244566a4a5562025f31200573c35d1c4f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "24bdcdae0b9a744e23d8cce3b51d067453b8bb40a6e368b7eb824f90f1d1a56b"
+  },
+  {
+   "path": "3DPrintMeshes/webcam_mount/webcam_mount.stl",
+   "size": 158584,
+   "git_blob_sha1": "12ae2a240396d26499ec8d9d743dad650daccf5c",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "bf10d2311c3486be19966850ef131cd70ff6ab9ea81a9485d81bf1135e9b7f24"
+  },
+  {
+   "path": "3DPrintMeshes/webcam_mount/webcam_mount_wrist.step",
+   "size": 109944,
+   "git_blob_sha1": "adb4176d19b41d06852ce722727f28de858fb07d",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "dca11748afbda0a5db8f28d1a9ea0ec692e337080ebf88fc7981e5ac12a0b536"
+  },
+  {
+   "path": "3DPrintMeshes/webcam_mount/webcam_mount_wrist.stl",
+   "size": 150484,
+   "git_blob_sha1": "1132c122b4a674164a64ca3f728137730e4cbd32",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "7e8148bad453eeb37d1f38f7c22f47f89b0fd5534f6c0ecd1e87d80709d212c1"
+  },
+  {
+   "path": "3DPrintMeshes/wired_specific/cable_holder v0.stl",
+   "size": 46784,
+   "git_blob_sha1": "9a1161bb0c45212a2ea31dec8f39120131078500",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "74798ebe3b4d090703b27cb1a80f03e909f01e55be1f8f4908bec7d221b731d8"
+  },
+  {
+   "path": "3DPrintMeshes/wired_specific/usb_connector_case v1.stl",
+   "size": 47884,
+   "git_blob_sha1": "399db5104585075c5fbb38607fe02d2b33cf75a3",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "c1ca214000f74530bbdccb02948caac64f5cc47bfb5a984a6736cbda953f92ae"
+  },
+  {
+   "path": "3DPrintMeshes/wrist_camera_mount.stl",
+   "size": 1891939,
+   "git_blob_sha1": "114ef13449c3decbf65d33ab982312e1d3cc38b4",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "bbc712f4b1da1f3274876a84770650147f2b1b51e8f67171cc333b3072c4f539"
+  },
+  {
+   "path": "3DPrinting.md",
+   "size": 3676,
+   "git_blob_sha1": "63360d93553a017d8edbe15f79dc035444a54cfb",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "aa5a9da356500bd0dd55260dd7b2b55207889d82a4526de9d7f8a05c82ef366d"
+  },
+  {
+   "path": "Assembly.md",
+   "size": 6930,
+   "git_blob_sha1": "e6ad5cb56f420805bf448cbb3cd5750b690012a4",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "f6769142ed15a3c40b73147e642dce75fc3ddc2fd5e93354d1f41b351e8d8a9c"
+  },
+  {
+   "path": "BOM.md",
+   "size": 14818,
+   "git_blob_sha1": "dfc9e12515ef22d06bcec2f01d0a86c1aa5b05c7",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "6bb91c9cba7b9fe0748be70473d98c7cf85e316239e0570f7614f1a5965082c1"
+  },
+  {
+   "path": "CITATION.cff",
+   "size": 671,
+   "git_blob_sha1": "9d8b8f43d58a919a0ac83ff5e2a4a08466614a88",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "0674ca1a84bed778b901cedcd595be506b44dbfab528fe45e9d734774bafbf33"
+  },
+  {
+   "path": "DynamixelLeKiwi/3DPrinting.md",
+   "size": 3170,
+   "git_blob_sha1": "d20196c2b846e845f4c6831c3eb371e420b9399e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "2c5372f1f7b3c7390d324e2144be1eea90623ffce06d844bd813ea56bcd01bd0"
+  },
+  {
+   "path": "DynamixelLeKiwi/Assembly.md",
+   "size": 4224,
+   "git_blob_sha1": "ed4057f5e3e87ef8b3f0caaeaf58dedbcf379798",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "5f60bd913b375eae3a03a7b9a7dd6dd8b518c2d3eb18186d6b38ca9a3c31f3ee"
+  },
+  {
+   "path": "DynamixelLeKiwi/BOM.md",
+   "size": 25413,
+   "git_blob_sha1": "f604d6d509df5f3756e5ae1b4b5788299b13a4d1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "0451b55f04cc5640df1f04fcef70f4f7d1a1d07c5c5b4969ee6abbf5d1c90ed2"
+  },
+  {
+   "path": "DynamixelLeKiwi/README.md",
+   "size": 681,
+   "git_blob_sha1": "9611f657e299b5dbf410903e476fdcbb76ce94dd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "15cba571adbcb6fa974d7c3b0c85c2be708d435138a00b31275d5ddc07e3e52b"
+  },
+  {
+   "path": "LICENSE.txt",
+   "size": 11357,
+   "git_blob_sha1": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+   "path": "README.md",
+   "size": 3088,
+   "git_blob_sha1": "39dfe7250dcbc2777492da29ac6a08bfb9d6b308",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "5736581057935f9626b99571cfb55acd3b9bcce0c964b52d5b73948fcf958181"
+  },
+  {
+   "path": "URDF/JOINT_NAMES.md",
+   "size": 1015,
+   "git_blob_sha1": "0d65a1df38c24c51efdf93ee3cead0d616910cb1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "d1b24b10b22b0282ee0db9d68e984991e0d6105a8ad501b33a2ba86cc8e14013"
+  },
+  {
+   "path": "URDF/LeKiwi.urdf",
+   "size": 66793,
+   "git_blob_sha1": "47323a11610ec0f8f561ae25c46adfde4a615a54",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "36e102375e1e6ffdc1ca2d343c7406284b3cabc77ae16bfc001a3da89fddc6e1"
+  },
+  {
+   "path": "URDF/meshes/4-Omni-Directional-Wheel_Single_Body-v1-1.stl",
+   "size": 15712284,
+   "git_blob_sha1": "0d1af9d6efec5aeb542ea673bb3f483754058c2b",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "4c8e0e2b16340d3fd6738ae0077c1363c719b71ed7a54129103dddbd058b3c50"
+  },
+  {
+   "path": "URDF/meshes/4-Omni-Directional-Wheel_Single_Body-v1-2.stl",
+   "size": 15712284,
+   "git_blob_sha1": "0d1af9d6efec5aeb542ea673bb3f483754058c2b",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "4c8e0e2b16340d3fd6738ae0077c1363c719b71ed7a54129103dddbd058b3c50"
+  },
+  {
+   "path": "URDF/meshes/4-Omni-Directional-Wheel_Single_Body-v1.stl",
+   "size": 15712284,
+   "git_blob_sha1": "0d1af9d6efec5aeb542ea673bb3f483754058c2b",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "4c8e0e2b16340d3fd6738ae0077c1363c719b71ed7a54129103dddbd058b3c50"
+  },
+  {
+   "path": "URDF/meshes/94868A713_NO-THREADS_Female-Threaded-Hex-Standoff-1.stl",
+   "size": 57684,
+   "git_blob_sha1": "4c254f19121d0250f5b8c434f7f2712eaaa4b51e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b488075dce6863ecb6b8d03e25b243fda1f7d3d65fae13cfd172e7f8ed686f0e"
+  },
+  {
+   "path": "URDF/meshes/94868A713_NO-THREADS_Female-Threaded-Hex-Standoff-2.stl",
+   "size": 57684,
+   "git_blob_sha1": "4c254f19121d0250f5b8c434f7f2712eaaa4b51e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b488075dce6863ecb6b8d03e25b243fda1f7d3d65fae13cfd172e7f8ed686f0e"
+  },
+  {
+   "path": "URDF/meshes/94868A713_NO-THREADS_Female-Threaded-Hex-Standoff-3.stl",
+   "size": 57684,
+   "git_blob_sha1": "4c254f19121d0250f5b8c434f7f2712eaaa4b51e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b488075dce6863ecb6b8d03e25b243fda1f7d3d65fae13cfd172e7f8ed686f0e"
+  },
+  {
+   "path": "URDF/meshes/94868A713_NO-THREADS_Female-Threaded-Hex-Standoff-4.stl",
+   "size": 57684,
+   "git_blob_sha1": "4c254f19121d0250f5b8c434f7f2712eaaa4b51e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b488075dce6863ecb6b8d03e25b243fda1f7d3d65fae13cfd172e7f8ed686f0e"
+  },
+  {
+   "path": "URDF/meshes/94868A713_NO-THREADS_Female-Threaded-Hex-Standoff-5.stl",
+   "size": 57684,
+   "git_blob_sha1": "4c254f19121d0250f5b8c434f7f2712eaaa4b51e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b488075dce6863ecb6b8d03e25b243fda1f7d3d65fae13cfd172e7f8ed686f0e"
+  },
+  {
+   "path": "URDF/meshes/94868A713_NO-THREADS_Female-Threaded-Hex-Standoff.stl",
+   "size": 57684,
+   "git_blob_sha1": "4c254f19121d0250f5b8c434f7f2712eaaa4b51e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b488075dce6863ecb6b8d03e25b243fda1f7d3d65fae13cfd172e7f8ed686f0e"
+  },
+  {
+   "path": "URDF/meshes/Base_08q-v1.stl",
+   "size": 856484,
+   "git_blob_sha1": "99066a1f23f4350dfcd25cd0e2786357b87b501d",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "a05be37db52657615ac69423fe577979efa0cd0634a5e9546bbc85537f003172"
+  },
+  {
+   "path": "URDF/meshes/Battery---Battery-5.2-Ah-DC5521-Plug-v2.stl",
+   "size": 85084,
+   "git_blob_sha1": "87e075d1aae532a6922c56660b66cfe21f928147",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "f0cd9200f80ff3a75c8b0447eb2e80cd649a6ac86271ff5003571a9f5d94d42c"
+  },
+  {
+   "path": "URDF/meshes/Bottom-V2-v3.stl",
+   "size": 144384,
+   "git_blob_sha1": "c46bd5b3cc5d4669cc87b6d613f16a024ea357de",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "eb554e74d9240cbcadef4be827eb809637679ab6991e8fbe55a6dfe6d01a28e0"
+  },
+  {
+   "path": "URDF/meshes/Camera-Model-v3-1.stl",
+   "size": 878284,
+   "git_blob_sha1": "16da71992f6d33f4106aa0bdf69fea7f3587ae3f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "f5ff94543c19e91a6d5ffb540e2d25347d813d191793405ff2e4178230dec21e"
+  },
+  {
+   "path": "URDF/meshes/Camera-Model-v3.stl",
+   "size": 878284,
+   "git_blob_sha1": "16da71992f6d33f4106aa0bdf69fea7f3587ae3f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "f5ff94543c19e91a6d5ffb540e2d25347d813d191793405ff2e4178230dec21e"
+  },
+  {
+   "path": "URDF/meshes/Camera-Mount-v8.stl",
+   "size": 80884,
+   "git_blob_sha1": "8f52f7c5ce5185e14eae83a1513a84e0adf835eb",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "631ed680e524b90dcb59dd315830ed1bac842dfd5e77c412ef4c52ff4da2e854"
+  },
+  {
+   "path": "URDF/meshes/Moving_Jaw_08d-v1.stl",
+   "size": 500084,
+   "git_blob_sha1": "de143c1cefeb361c4e73bc81f02ea64c8848f18c",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "71caabee267376791210950b3b4e2f7968d9b57b92ed3f57711c03f2b5666912"
+  },
+  {
+   "path": "URDF/meshes/Passive_Horn_01-v1.stl",
+   "size": 47684,
+   "git_blob_sha1": "6e56e72b8b9edda0af2bc3193e00e2ab0e188eb4",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "fca61eb1fb63b4bb04ff0c80d395ae10ae69787a7da7e15414234d39b8b0ab7d"
+  },
+  {
+   "path": "URDF/meshes/Rotation_Pitch_08i-v1.stl",
+   "size": 446884,
+   "git_blob_sha1": "e2580a96fb634b4f2baf718a4615ce63ee9d883a",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "747a37e0c99c8fa85ad52ccf9fbfbb945468d8f9f590a1b7faadf5188d741ba9"
+  },
+  {
+   "path": "URDF/meshes/SO_ARM100_08k_116_Square-v1.stl",
+   "size": 370984,
+   "git_blob_sha1": "203bca01670b97681abb46cbb5515096e4d65712",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "64fdc308759ff58756e3c39a0ea8018d6b37b551bc3d29238b6e86bc5acae666"
+  },
+  {
+   "path": "URDF/meshes/SO_ARM100_08k_Asym_Mirror_Clip-v1.stl",
+   "size": 268384,
+   "git_blob_sha1": "454f4c432b021677ec8336f011daca3536c18a11",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "0f336a7f3940c943554252032ae8e351196353b8aa983827f045c4d7aa4cc52d"
+  },
+  {
+   "path": "URDF/meshes/SO_ARM100_08k_Mirror-v1.stl",
+   "size": 713684,
+   "git_blob_sha1": "2061c2d9cf674d38038fb8a041088cb0fd53efdc",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "f6a2abf909ddd6e27c6fef5791937497a7686221dc1d877a7b30820b91cc1ca6"
+  },
+  {
+   "path": "URDF/meshes/ST3215_Servo_Motor-v1-1.stl",
+   "size": 827784,
+   "git_blob_sha1": "e7733d845455f50a3b1b3fb93de2d5be785c85ea",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "8e5026ea1322832671b8617166503104e98ba185bd5bfc3d037f96b7b4f964cf"
+  },
+  {
+   "path": "URDF/meshes/ST3215_Servo_Motor-v1-2.stl",
+   "size": 827784,
+   "git_blob_sha1": "e7733d845455f50a3b1b3fb93de2d5be785c85ea",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "8e5026ea1322832671b8617166503104e98ba185bd5bfc3d037f96b7b4f964cf"
+  },
+  {
+   "path": "URDF/meshes/ST3215_Servo_Motor-v1.stl",
+   "size": 827784,
+   "git_blob_sha1": "e7733d845455f50a3b1b3fb93de2d5be785c85ea",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "8e5026ea1322832671b8617166503104e98ba185bd5bfc3d037f96b7b4f964cf"
+  },
+  {
+   "path": "URDF/meshes/STS3215_03a-v1-1.stl",
+   "size": 325384,
+   "git_blob_sha1": "48d32c524c88ac37193d3670280f5ed65f499140",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "07695009c2e9ef352787fe98814d85eb936228a1843a0c76d22ab1bb3d37eb92"
+  },
+  {
+   "path": "URDF/meshes/STS3215_03a-v1-2.stl",
+   "size": 325384,
+   "git_blob_sha1": "48d32c524c88ac37193d3670280f5ed65f499140",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "07695009c2e9ef352787fe98814d85eb936228a1843a0c76d22ab1bb3d37eb92"
+  },
+  {
+   "path": "URDF/meshes/STS3215_03a-v1-3.stl",
+   "size": 325384,
+   "git_blob_sha1": "48d32c524c88ac37193d3670280f5ed65f499140",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "07695009c2e9ef352787fe98814d85eb936228a1843a0c76d22ab1bb3d37eb92"
+  },
+  {
+   "path": "URDF/meshes/STS3215_03a-v1-4.stl",
+   "size": 325384,
+   "git_blob_sha1": "48d32c524c88ac37193d3670280f5ed65f499140",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "07695009c2e9ef352787fe98814d85eb936228a1843a0c76d22ab1bb3d37eb92"
+  },
+  {
+   "path": "URDF/meshes/STS3215_03a-v1.stl",
+   "size": 325384,
+   "git_blob_sha1": "48d32c524c88ac37193d3670280f5ed65f499140",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "07695009c2e9ef352787fe98814d85eb936228a1843a0c76d22ab1bb3d37eb92"
+  },
+  {
+   "path": "URDF/meshes/STS3215_03a_Wrist_Roll-v1.stl",
+   "size": 282984,
+   "git_blob_sha1": "e3183a38196f97baa89c4f402cb28c022f68dca1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b390f54c455a7900687af22432c8f742f4060d3c1afb90091c2fbf1dc3a9b978"
+  },
+  {
+   "path": "URDF/meshes/Top-V2-v2.stl",
+   "size": 178484,
+   "git_blob_sha1": "535fa5e94693e8d997dec7aa396bf2ee6601a82a",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "fbd2b1bc5768d1ccfdeb96796e127715d7f6bee1edcadaf97e586b8b7e641c0e"
+  },
+  {
+   "path": "URDF/meshes/WaveShare_Mounting_Plate_01d-v1.stl",
+   "size": 37684,
+   "git_blob_sha1": "fb6bd894c6272bee0dd58d74ec81d8e1dfc02611",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "abde2af470078f125c6e001e64abcae7c4307bff02f27c3a10dc2a87f7039bed"
+  },
+  {
+   "path": "URDF/meshes/Wrist-Camera-Mount-v11.stl",
+   "size": 348784,
+   "git_blob_sha1": "f2e1619b57de126fcda26f9f394d49e146424daa",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "2bb123c754eff42c57c4605a533b94d14e7b51889a813764f798b7878489a98a"
+  },
+  {
+   "path": "URDF/meshes/Wrist_Roll_08c-v1.stl",
+   "size": 543484,
+   "git_blob_sha1": "e6b0344b5e06e4a1e4d504ebf523ddc8853e8a25",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "87507f73f485c2cacb3dc83924a712069fbd68f72b82d4a31a2cfe7f58c9e4c9"
+  },
+  {
+   "path": "URDF/meshes/Wrist_Roll_Pitch_08i-v1.stl",
+   "size": 842584,
+   "git_blob_sha1": "5abbaf625623d8f64abb28187b46853f0af2badd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "964cef356d5a120cd7d65018fcbd89a7f2dcd5f7a503d415720f94c452eb5da6"
+  },
+  {
+   "path": "URDF/meshes/base_plate_layer1-v5.stl",
+   "size": 290284,
+   "git_blob_sha1": "1a0b2d2a06669bbee21333185f7306bc64aa3190",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "6304da40d3ee04ec4fc36dd99e2f276febbc6e3770a14b1c2f5b674dfe0bd0f8"
+  },
+  {
+   "path": "URDF/meshes/base_plate_layer2-v3.stl",
+   "size": 309084,
+   "git_blob_sha1": "a809407e6723869e6c910b740eb6fe5f27c8252c",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "40e6e0bca0c565512d3eb8dca3ddff3e36fa6ae1ef2d9e62aa74d15ab99ac6ee"
+  },
+  {
+   "path": "URDF/meshes/drive_motor_mount-v11-1.stl",
+   "size": 46284,
+   "git_blob_sha1": "cb6ff4d8458e3bb619c6cb1c096e909d7a9f2d5f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b46bb245e04a55ff808d00a7f6d4e2341c8e7918956bd3b3d7eaeceb7cfdc84e"
+  },
+  {
+   "path": "URDF/meshes/drive_motor_mount-v11-2.stl",
+   "size": 46284,
+   "git_blob_sha1": "cb6ff4d8458e3bb619c6cb1c096e909d7a9f2d5f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b46bb245e04a55ff808d00a7f6d4e2341c8e7918956bd3b3d7eaeceb7cfdc84e"
+  },
+  {
+   "path": "URDF/meshes/drive_motor_mount-v11.stl",
+   "size": 46284,
+   "git_blob_sha1": "cb6ff4d8458e3bb619c6cb1c096e909d7a9f2d5f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b46bb245e04a55ff808d00a7f6d4e2341c8e7918956bd3b3d7eaeceb7cfdc84e"
+  },
+  {
+   "path": "URDF/meshes/lipo_battery_mount-v3.stl",
+   "size": 13484,
+   "git_blob_sha1": "eea1419db448ed44d80e99f975a15649c8d17fc4",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "722716bedcc94138b48100276a44bb6b707efae506f023ee7308a5c7e108228e"
+  },
+  {
+   "path": "URDF/meshes/omni_wheel_mount-v5-1.stl",
+   "size": 399384,
+   "git_blob_sha1": "9ea1f837986419392439d8b3f07ddfa99c54b4bd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "9fcebf3d5d9879dc1547fe4a0ff548d64ede092945da1a1edc2597985d376249"
+  },
+  {
+   "path": "URDF/meshes/omni_wheel_mount-v5-2.stl",
+   "size": 399384,
+   "git_blob_sha1": "9ea1f837986419392439d8b3f07ddfa99c54b4bd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "9fcebf3d5d9879dc1547fe4a0ff548d64ede092945da1a1edc2597985d376249"
+  },
+  {
+   "path": "URDF/meshes/omni_wheel_mount-v5.stl",
+   "size": 399384,
+   "git_blob_sha1": "9ea1f837986419392439d8b3f07ddfa99c54b4bd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "9fcebf3d5d9879dc1547fe4a0ff548d64ede092945da1a1edc2597985d376249"
+  },
+  {
+   "path": "URDF/meshes/servo_controller_mount-v3.stl",
+   "size": 85884,
+   "git_blob_sha1": "6308de4189252be0dfc5f04f5b2f8591148f8cc9",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "47fa5f3c5669a67208f2f59e752d05b4ba0a569641d05cb2f22031944baa7a4a"
+  },
+  {
+   "path": "media/.DS_Store",
+   "size": 8196,
+   "git_blob_sha1": "a1e784fff342be4cc42ed359e58647783f12b595",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "093ccdb03e8f0500441eca4e44290894d86f81ebd84414de425ee30c28ef38c0"
+  },
+  {
+   "path": "media/167040694.png",
+   "size": 14434,
+   "git_blob_sha1": "803724780ad396b2ce983e21e47ba64b0ae68502",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "89b9cd3d9170ff8b56b6d06edd3c3653def38767a5f31984b5d53844e2bedad3"
+  },
+  {
+   "path": "media/IMG_9193 (1).jpg",
+   "size": 57282,
+   "git_blob_sha1": "0a6e590f070c2bfc41cd9c44dc727f05a2de71d8",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "624a13c9d00f0465bec65b5c0158ad20d50aa29183bc00978df6a5d4516b145c"
+  },
+  {
+   "path": "media/IMG_9200.jpg",
+   "size": 70403,
+   "git_blob_sha1": "929a0a4ca76d8c50f17ffa762fcc2d4df3138e49",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "e2539c1249f2c747a7dfe4d09529bef2f337afa3a073c5a77cbd7a6bc98e2983"
+  },
+  {
+   "path": "media/IMG_9202.jpg",
+   "size": 66302,
+   "git_blob_sha1": "1a9d14ff85c890a387a6a42781c4e0c9b4b6a7d5",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "18c6696587424d9facf28c58858b420184ba97adaf357184fa16cd05999acc50"
+  },
+  {
+   "path": "media/University-of-Illinois-logo.jpg",
+   "size": 65662,
+   "git_blob_sha1": "921bd70758029e536b4f29eaa506e0776d0a14b9",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "0fa78e13eae9064106c91dd905fb0c610990800622e2287837bcebdb7da85bf1"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00001.jpg",
+   "size": 2165014,
+   "git_blob_sha1": "eed0a24a54cd99c17d1e58fd7297053e332007b0",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "cd49ff26e7b2fe4a031275e42cab9e94e9b08fa77ea3253536c03e853aee53bb"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00002.jpg",
+   "size": 3998422,
+   "git_blob_sha1": "985a4b804a6222fa548e5fcde838075c37498dca",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b15773718fdebfd73715049a85766dc2a63845ba25a86ef3b7d4fb4e49cfcc9c"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00003.jpg",
+   "size": 2157921,
+   "git_blob_sha1": "086cf7582d73abe710938285969d616344d130f1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "6783f4d0bc3e98bf3b0804926dedb641fd8132d3a5c49dc852ffd95a77f99a91"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00004.jpg",
+   "size": 2355156,
+   "git_blob_sha1": "3a211925990134f642fdae9fdc3545b93aab6409",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "9c2f37abb19e2074fdece5d55ee57dcf6bb10b7c8db81d1bed212fd59fd1e484"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00005.jpg",
+   "size": 2096526,
+   "git_blob_sha1": "094a43604fb5206133f2d15b872d7138ccbcb067",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "2ca28a3c86ed19bac16f204ce7ef4b70aaeb914acf4f9362274fd4eb826a702c"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00006.jpg",
+   "size": 2015492,
+   "git_blob_sha1": "5df050b38f4e9b9d31fd6cf9f637ff327def654f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "aae0df23091efe4f4bb34a6c683c71e7d92cb2c007ffefd99915ae8b275a6a63"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00007.jpg",
+   "size": 2634086,
+   "git_blob_sha1": "595c0ad803c14f1a41fc693704f2da6b0f082f2b",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "25fd43bb9afa6403864dbbb95331e9ce7be78e50a46635469edad223f4d932d7"
+  },
+  {
+   "path": "media/assembly_imgs/DSC00008.jpg",
+   "size": 3093362,
+   "git_blob_sha1": "f6dcef4856b2fba37307eef82f8e94881ea6926b",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b573ee7153f7645272be7e986d2dba5e9841f526e366dd1f3e4988156239e5ff"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1.jpg",
+   "size": 176089,
+   "git_blob_sha1": "a8c4f679f43fe52c49bd9cdfce1989bbe7dcfa3e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "ab565f7fc9ca944736f1862e4b72b715c1b7e4b1ad1e7536e87e6a5e6c888264"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_10.jpg",
+   "size": 302496,
+   "git_blob_sha1": "9ffec10f05613ebe12f957e302a3c8942cac098f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "905e584a67debcafc996b7258c71fe8c3c7048721f8037d7c7b5c5edd01b4add"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1922.jpg",
+   "size": 3519302,
+   "git_blob_sha1": "78b4475c5897391e823e08a64f22437734d7da5e",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "62524775e89f0106e07e244eae1b1de8f015a64bce92b2748e55324046714ae4"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1925.jpg",
+   "size": 1628759,
+   "git_blob_sha1": "071a1c5b20b78da27d76ca5640d53e9dc6df5c1b",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "d493922fc1a197701bfe7401fc0960a18c89e8553201b3953e2ba89dd98560d8"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1926.jpg",
+   "size": 1261596,
+   "git_blob_sha1": "ca7f74f07b76eff45e8ba26b62304879586383ee",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "0857ab7bcbe9346760b6f574eb84c6bdaff8a7bb98a4ab85d48c9c0a00e2200e"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1927.jpg",
+   "size": 1305410,
+   "git_blob_sha1": "59e39ab7d6201e1962d1ec842fb294f48e34f36f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "4a8e75f5d3bbb8864b802c2b40b58971de7f6f35e00350bd4390b1c184bfc594"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1928.jpg",
+   "size": 1384523,
+   "git_blob_sha1": "75fa1d99387217601cc805f5c6cc9a57a9f84fa9",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "8b47948224dea41af5ad7946676f62eb41996a92950158369e72b639a5bfdd49"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1929.jpg",
+   "size": 1224391,
+   "git_blob_sha1": "bb040ebdb88999f1a6783ab4e190297376b73734",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "e4299aacd5771d5956fd80ce7f524f5119c4536e28a4b4dfef51a314fa208c6a"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1930.jpg",
+   "size": 801586,
+   "git_blob_sha1": "ca8139a054faf6ba138a6dbb60d3f1d1a09027b7",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "ec25d53a0c0ad07c615f1f9fde04cc6cc0a8a527f8d65433a2c2e3f61d4f7b77"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1931.jpg",
+   "size": 1301925,
+   "git_blob_sha1": "9b4449923919446987c72138b2981936d1b60097",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "443fa18875226aa52ded36f62455f1ec73bd173a721495148516cda9c9f26366"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1932.jpg",
+   "size": 938471,
+   "git_blob_sha1": "d875f628b7befab67a8d928a88c8b01269d86e78",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "f84b5852ef7212b775cb196be97bf44dfe31e7ebc6ee876db69db5423a02fb3e"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1933.jpg",
+   "size": 1023825,
+   "git_blob_sha1": "c77f1460cd615eb177af32dfdc6e7d5e1cae281f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "981d22f9ca8245053f77260048a408f830b3b65dc255675a5e043b686d0ae0d9"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1934.jpg",
+   "size": 2050328,
+   "git_blob_sha1": "efc259ee99df1370e33d6873d5d78d7befe464ab",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "662b63351afe0ec5924dc39d5b0cc2d77883c25397e5d5d8fb4a8cba167231e9"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1935.jpg",
+   "size": 686880,
+   "git_blob_sha1": "1ad2a1d4b49c4f6f69d4252af87122cd6a5136e1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "8e08f8f0a384d2079614ab07dc11aec9bda44959580359f82e64b86a4b0b4232"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1938.jpg",
+   "size": 897273,
+   "git_blob_sha1": "1913d39a5d427acbfa6dcfb779639c3f78d7a46a",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "704a6b8b59e433fa352de9e94abf61af17ac65a16772bedab5ba5aca8bc93ecc"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1939.jpg",
+   "size": 1046375,
+   "git_blob_sha1": "e083eb78f0724ec381506998a861f2e183195075",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "92218ed8f973e8b40cda30e2fdf0121c3352d04efd775836788ed06b3625da1a"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_1940.jpg",
+   "size": 951973,
+   "git_blob_sha1": "facf6364348e82056572bbff5ea8243be70900d7",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "bb95498cb711d28a4382bb5ba817efb788aebd3e405099f6b57b6956e8ee2e51"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_2.jpg",
+   "size": 291946,
+   "git_blob_sha1": "9e389fb5dc02444229f682683203c942da66aadd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "f8c997e0e585fd6202884de085d2f614a652296f44df599acd679b492b57e4c9"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_2006.jpg",
+   "size": 2939930,
+   "git_blob_sha1": "0d813ab0a16034f9ee85007ab8ddfd830a752fc1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "11a10162d08f58a1fc447f1a2ca598304b8b399244a5e3f4e8c82c889228816f"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_2007.jpg",
+   "size": 2104280,
+   "git_blob_sha1": "1ec069ff787fdca2cc2949818ba5c8266c19273c",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "dbb84cc3602ba653e94133735029da3f06a8a735eaba88aebaac0097527a7ca5"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_2008.jpg",
+   "size": 2210882,
+   "git_blob_sha1": "6e737db2ff7ebc01c1a6321387bb0e59e22b213c",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "66da66aca64e88907be92eb22b9c00535a5f18448158b8c5c8584ead957c3a96"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_2009.jpg",
+   "size": 2821864,
+   "git_blob_sha1": "f94adcaefc5f0e1fac3a224cdbbf2a27db87ad08",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "d51a25e02642bf89156ea30af0046537956a6f29b04525a76e158c7e710d8b93"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_3.jpg",
+   "size": 354063,
+   "git_blob_sha1": "fc39a7926195808d9463c9e7747994ba9f2c3b30",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "9e6b05209425d8b0907e05e7487a5d27f9bc27e5178ab007e10c6bd559eb8ecb"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_7.jpg",
+   "size": 249254,
+   "git_blob_sha1": "6a45b6886d9793a6156bad03cba62b2d2982a9a7",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "993b2910860d71710197a9c24df4d74ded5e9dbcdd03ccec685cebc4b479db7c"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9.jpg",
+   "size": 279260,
+   "git_blob_sha1": "378e18b488f894c6963f4b019df4b60c81bdab64",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "e5afab59d61259c452f7efbff807465025edd4417b81200d899d4b1faa792be2"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9193 (1).jpg",
+   "size": 57282,
+   "git_blob_sha1": "0a6e590f070c2bfc41cd9c44dc727f05a2de71d8",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "624a13c9d00f0465bec65b5c0158ad20d50aa29183bc00978df6a5d4516b145c"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9193.jpg",
+   "size": 54491,
+   "git_blob_sha1": "9bcabfb6e994f5a603f434e681caa4e8dfb2f039",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "ff77d203061efdf3a6f947edb70dd84382ad2497e4a275a6fa87b98f90b73fb7"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9195.jpg",
+   "size": 54370,
+   "git_blob_sha1": "578581b01a29e835d3b476ba33611342e0ef1641",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "9f44c006b3e7c8272bb95c08b4215d4e92b1851429d4932207634b6d46da1a47"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9196.jpg",
+   "size": 68625,
+   "git_blob_sha1": "41b2a9d459e1ff4ccce3f9982de7bef3586b8d02",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "dc0b3da6b814d1f52b011e7ff37d5e076007dfc7542b3d53bc92455f36cd4bce"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9197.jpg",
+   "size": 59342,
+   "git_blob_sha1": "2cce9e55a43c131431fb73237faa9c77f5f57110",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "e705d4ed974dc2f7ef8c54f1b30eb7462e8df8dca01a6905cd7f56ad3ddc6477"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9200.jpg",
+   "size": 70403,
+   "git_blob_sha1": "929a0a4ca76d8c50f17ffa762fcc2d4df3138e49",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "e2539c1249f2c747a7dfe4d09529bef2f337afa3a073c5a77cbd7a6bc98e2983"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9202.jpg",
+   "size": 66302,
+   "git_blob_sha1": "1a9d14ff85c890a387a6a42781c4e0c9b4b6a7d5",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "18c6696587424d9facf28c58858b420184ba97adaf357184fa16cd05999acc50"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9235.jpg",
+   "size": 62879,
+   "git_blob_sha1": "27dee70dcef5a418148afc68c2747f6f31f9b0c5",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "ab9d0394062154c4465cec13fcc4a66dee09be0b77c7744a5a33c8fa1400713f"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9236.jpg",
+   "size": 1160211,
+   "git_blob_sha1": "6eff6be6d84d2c10d0b92c385d1d3b5ef06385bb",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "4762bbcc88053f9dd6a8c337f3da65830a05cfa8653bac705df8fff876b26cfe"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9240.jpg",
+   "size": 529729,
+   "git_blob_sha1": "3c901b5068e36420c3ec56b09e0e93266fd76595",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "cb4b75c5bdf81e2f456bd3724af04e90b3bfe8645fc58ffb52aeb392a3dcdb92"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9242.jpg",
+   "size": 1199624,
+   "git_blob_sha1": "46395c39473955ae5cf77d848ec22a20a404346f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "62ec710887eb9a006d06cb98ee5245bf93d30c1bd9e698ad64eb86a5f92dc9d2"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9243.jpg",
+   "size": 132510,
+   "git_blob_sha1": "ad67e701e28a27645c9dc88e019f4c761cf26cfb",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "b601e62df2d8e6e042a81aa54e84f57e5bace60591c675247b33c8f8e3b80bfd"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9244.jpg",
+   "size": 158982,
+   "git_blob_sha1": "f8df2e1c7187544f98462de2a8de57c7b1b38860",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "0136f1e39cdc317b2ed53ed9c573d4188c6f1913f129e01fb30f7ba2c226b903"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9247.jpg",
+   "size": 233914,
+   "git_blob_sha1": "bf9ec58295d9550833caaf1c676e09c9ea4e1dc2",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "57735986cac450671b5d0aa03308dfda26316ad0449ce5d4e0b52dd8081a45c6"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9249.jpg",
+   "size": 167779,
+   "git_blob_sha1": "23763e93b91e41aeb2c54545324152bdeccf868d",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "a61912a80bbdf738d3c7a48ad2530797b80e8eda2094a80db32cf38a8e2a9f28"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9250.jpg",
+   "size": 209297,
+   "git_blob_sha1": "7a100f89dae2a5f0d68e27915d77a9822fd872b5",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "7018e64c090a4b5386ad6b891cf68fa7097c4967d63cc6fc6df34e3d60ad1d36"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9251.jpg",
+   "size": 191767,
+   "git_blob_sha1": "2b12e8d7d7517925a7baf29aed057cdeb8dbfdf1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "cdffeb8da3ca7dcace1d02566e365332c6c886682ec0a04523fef269ec4b2727"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9252.jpg",
+   "size": 198180,
+   "git_blob_sha1": "ddaeb803ea3b9e0496c87228b6c7a457d71a57fa",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "efb6ad7bda756ad45f01ec2a1967f8fe1fddbc6bfeb06d1d23c798c9d8e15fd0"
+  },
+  {
+   "path": "media/assembly_imgs/IMG_9256.jpg",
+   "size": 231002,
+   "git_blob_sha1": "55c60fc2b840216d94e8ecc6bee592240672a138",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "cc258722bdbb74e84d51f6837633390e4a1a899c64bbf5ebe46751ea3071585b"
+  },
+  {
+   "path": "media/assembly_imgs/Slide1.jpeg",
+   "size": 44378,
+   "git_blob_sha1": "02ba24d09c512503bc26615459a634149fa175dd",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "4f4bfec250de7364acc6f972a90034a1a5944e84b79b46559f818c32ec360c4d"
+  },
+  {
+   "path": "media/assembly_imgs/WIRED1.jpeg",
+   "size": 153208,
+   "git_blob_sha1": "9ed4d67b9360bf944720a8ba32e0af1300e0d011",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "2af4e675e4a7c084385c3332f9369698910f16014c80414f41924177a20d6333"
+  },
+  {
+   "path": "media/assembly_imgs/WIRED2.jpeg",
+   "size": 712774,
+   "git_blob_sha1": "0e6793d7ae898e3c2009cfd206a2e940cb204e48",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "13feeefc5bef77f7c0952b966861d96608d2bfe9efc3a3f3713691d6db9a87cb"
+  },
+  {
+   "path": "media/assembly_imgs/WIRED3.jpeg",
+   "size": 382610,
+   "git_blob_sha1": "ee41886dbcccec65eccddc5e249f72b3e049d044",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "89e63d28afa045bede3b9e14518f1548d0f169252625d885f8ee7dbd11decf06"
+  },
+  {
+   "path": "media/assembly_imgs/WIRED4.jpeg",
+   "size": 359472,
+   "git_blob_sha1": "d6857bbf5d3877f88b6c826418ff08299d2279c1",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "beed2e0f9faa7393059dc4ca8683b8e04bb848d5c6d2ffeb2a89f26a28068f67"
+  },
+  {
+   "path": "media/dynamixel lekiwi demo.gif",
+   "size": 69975,
+   "git_blob_sha1": "db09a5bf50d449d0533996b560bd61dc6e956bd0",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "ac4a913379d28d9ecfd118df344cca3de90bf0bc29bb164a0e056966bccba035"
+  },
+  {
+   "path": "media/hf-logo-with-title.png",
+   "size": 91529,
+   "git_blob_sha1": "9ba7a6f25bf89bd94fa1ba973197e0ede96d3f70",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "42378b786aa85e6103abbd2ee24e56672467d562ecf884eb51cefe3a68971087"
+  },
+  {
+   "path": "media/lekiwi_cad_v1.png",
+   "size": 253655,
+   "git_blob_sha1": "9bc492042aac4ef2fc53a0765116d071dbd11904",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "60aced2e1ceebafaa8ed74212eed1011a95438f750077ac04f99857327ba1fcb"
+  },
+  {
+   "path": "media/lekiwi_real.jpg",
+   "size": 1133009,
+   "git_blob_sha1": "4c1e7a5d94304dec7b0538989350e1db61808c8f",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "201acf0cc829ce8a12da55dc2a59aec61698b0edaf5b1cd885d5c8b0002dc847"
+  },
+  {
+   "path": "media/lerobot-logo-light.png",
+   "size": 121265,
+   "git_blob_sha1": "af234c48c0b72b1df3845c056d4abb433039d1ed",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "e18b371492e778629371b5db883f3bfcc8d18a6e817423df230706c107632851"
+  },
+  {
+   "path": "media/sigrobotics-logo.png",
+   "size": 228598,
+   "git_blob_sha1": "12773a6210c3b64e592402b1f99c32dc413e2205",
+   "verified": true,
+   "lfs_pointer": false,
+   "sha256": "ac2a08c6879708c01a33b97a25b70670dc42e8a28c2d3a2c20a8ad53836a701a"
+  }
+ ],
+ "excluded": [
+  "3DPrintMeshes/dynamixel_specific/dynamixel_wheel_hub .stl",
+  "3DPrintMeshes/dynamixel_specific/pi_case_bottom.stl",
+  "3DPrintMeshes/pi_case_bottom.stl",
+  "3DPrintMeshes/pi_case_top.stl",
+  "3DPrintMeshes/servo_wheel_hub.stl"
+ ]
+}

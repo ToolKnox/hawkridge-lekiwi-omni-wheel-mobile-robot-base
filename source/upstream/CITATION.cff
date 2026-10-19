@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use LeKiwi in your research, please cite it using the metadata from this file."
+title: LeKiwi
+abstract: "A low-cost mobile manipulator built around the LeRobot ecosystem."
+type: software
+authors:
+  - given-names: Pepijn
+    family-names: Kooijmans
+  - given-names: Manav
+    family-names: Chandaka
+  - given-names: Bhargav
+    family-names: Chandaka
+  - given-names: Gloria
+    family-names: Wang
+  - given-names: Advait
+    family-names: Patel
+repository-code: "https://github.com/SIGRobotics-UIUC/LeKiwi"
+url: "https://huggingface.co/docs/lerobot/lekiwi"
+license: Apache-2.0
+keywords:
+  - robotics
+  - mobile manipulator
+  - LeRobot
